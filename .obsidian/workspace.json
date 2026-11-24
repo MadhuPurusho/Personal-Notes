@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "b5642b8c73ee6f5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef46b11204bcf458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2c226f40992a08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Study plan..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "📚 Study plan."
+            }
+          },
+          {
+            "id": "3936d807e36bfa99",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d201017d660be3e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af888ef62b84544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ca29aad0447af0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e651dd45d1b5057b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dcc815bbbf6bc5e0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          },
+          {
+            "id": "828f88394820dd7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d7443a87042a816e",
+    "type": "split",
+    "children": [
+      {
+        "id": "76d3eef760add946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3076ce7c38fda45f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4e3284f4cc498311",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e67945c71b0aa2a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "74751924826f283d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "599c6fbe542e076f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "33421a34c5118615",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "64962ab5032bf5b7",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "hearth:Open Hearth home": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "3936d807e36bfa99",
+  "lastOpenFiles": [
+    "📚 Study plan..md",
+    "📚 Board exam syllabus..md",
+    "main.md",
+    "Class 9 Physics.md",
+    "Class 10 Physics.md",
+    "Accomodation in Belgium.md",
+    "Matter in Our Surroundings.md",
+    "Forces in Fluids.md",
+    "Acids Bases and Salts.md",
+    "Chemical Reactions and Equations.md",
+    "Tissue culture.md",
+    "How do organisms reproduce?.md",
+    "Control and Coordination.md",
+    "Life Processes.md",
+    "Photosynthesis.md",
+    "Key Features of Federalism.md",
+    "Forms of Communalism in Politics.md",
+    "How is Federalism Practised.md",
+    "Nationalism in india.md",
+    "Nationalism in india.pdf",
+    "The rise of nationalism.pdf",
+    "German Unification.md",
+    "The rise of Nationalism in Europe.md",
+    "Giuseppe Mazzini.md",
+    "Duke Metternich.md",
+    "Zollverein.md",
+    "Water Resources.pdf",
+    "Water Resources.md",
+    "Term Exam - Map Questions.md",
+    "Attachments.../Pasted image 20260923203247.png",
+    "Grammar Worksheet.pdf",
+    "Templates...",
+    "Database.base",
+    "Tags...",
+    "Templates",
+    "Excalidraw...",
+    "Untitled.canvas",
+    "Attachments..."
+  ]
+}

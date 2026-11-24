@@ -1,0 +1,12 @@
+{
+  "fwdMultiplier": 1,
+  "fwdTree": true,
+  "bwdMultiplier": 1,
+  "lettersPerWt": 0,
+  "manual": [
+    {
+      "id": "main.md",
+      "weight": 65
+    }
+  ]
+}
